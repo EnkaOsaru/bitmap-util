@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "ES2020",
+    "module": "CommonJS",
+    "outDir": "js",
+    "lib": [
+      "DOM",
+      "ES2020"
+    ],
+    "moduleResolution": "Node",
+    "strict": true,
+    "strictNullChecks": true
+  }
+}
